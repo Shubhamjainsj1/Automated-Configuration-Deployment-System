@@ -1,0 +1,4 @@
+environment: production
+database:
+  host: prod.db.server
+  port: 5432
